@@ -1,1 +1,2 @@
+BDF-DC-CrystalGrowth
 The file BDF-DC-CrystalGrowth provides the algorithm codes for the benchmark tests, including convergence orders and stability tests for the coupled BDF2 and the decoupled BDF-DC schemes, repectively. It also contains the algorithm codes of the decoupled BDF-DC schemes for simulating 2D/3D dendritic crystal growth with fourfold and sixfold anisotropy.
